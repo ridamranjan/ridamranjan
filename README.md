@@ -8,7 +8,7 @@
 <h3 align="center">Software Developer | AI/ML Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Ml model**
+- 🔭 I’m currently working on **Ml model** and other **AI projects**
 
 - 🌱 I’m currently learning **AI/ML & Full Stack Development**
 
