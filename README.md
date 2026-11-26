@@ -16,11 +16,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridamranjan&show_icons=true&theme=transparent&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridamranjan&theme=transparent&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridamranjan&theme=transparent&hide_border=true&layout=compact" alt="Most Used Languages"/>
 </div>
 
